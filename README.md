@@ -7,7 +7,6 @@
 
 Interface moderna de Login, construída com Next.js (App Router) e Tailwind CSS, focada em design clean, responsividade e boa experiência do utilizador.
 
-
 ✨ Visão Geral
 
 Este projeto apresenta uma página de login simples e elegante, ideal para:
