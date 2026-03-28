@@ -41,6 +41,7 @@ Next.js 13+ (App Router)
 
 React
 
+
 Tailwind CSS
 
 next/link para navegação SPA
