@@ -5,7 +5,6 @@
 <img src="./screens/login.png" alt="não carregou a imagem" />
 🔐 Página de Login — Next.js + Tailwind CSS
 
-
 Interface moderna de Login, construída com Next.js (App Router) e Tailwind CSS, focada em design clean, responsividade e boa experiência do utilizador.
 
 ✨ Visão Geral
